@@ -1,5 +1,5 @@
 hilquias
 public function oi():void{
-var eu:String = "nois";
+var eu:Integer = "nois";
 
 }
